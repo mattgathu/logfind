@@ -4,6 +4,7 @@
 A simple python-based command-line tool that allows log files scanning without having to
 explicitly declare every file on the command line.
 
+![Overview](http://i.imgur.com/x5oREIf.gif)
 
 ### Introduction
 
